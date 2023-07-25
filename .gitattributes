@@ -1,0 +1,1 @@
+*.mat[[:space:]]merge=unityyamlmerge[[:space:]]eol=lf filter=lfs diff=lfs merge=lfs -text
